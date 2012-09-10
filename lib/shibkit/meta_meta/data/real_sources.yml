@@ -264,7 +264,37 @@
 #  support_email: Linden.mikael@rediris.es
 #  description: >
 #    No information listed
- 
+
+## FederationDFN-AAI
+#  name:
+#  display_name: 
+#  type: federation
+#  countries: ['de'] 
+#  metadata: ~
+#  certificate: ~
+#  fingerprint: ~
+#  refeds_info: ~
+#  homepage:  
+#  languages:  ~
+#  support_email:  hotline@aai.dfn.de
+#  description:  German National Research and Education Network
+
+##  FederationWAYF
+#  name: WhereAreYouFrom
+#  display_name: WAYF
+#  type: federation
+#  countries: ['dk']
+#  metadata:  ~
+#  certificate: ~
+#  fingerprint: ~
+#  refeds_info: ~
+#  homepage: http://www.wayf.dk
+#  support_email: sekretariat@wayf.dk, david@wayf.dk
+#  description: >
+#  Where Are You From - digital recycling centre
+#  A single Sign-On system which permits using one single login to
+#  access several web based services.
+#  
 
 
 ## Want more?  
