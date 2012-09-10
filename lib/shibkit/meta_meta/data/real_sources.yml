@@ -294,7 +294,47 @@
 #  Where Are You From - digital recycling centre
 #  A single Sign-On system which permits using one single login to
 #  access several web based services.
-#  
+
+##  FederationTAAT
+#  name:  
+#  display_name:
+#  type:
+#  countries:
+#  metadate: ~
+#  certificate: ~
+#  fingerprint: ~
+#  refeds_info: ~
+#  homepage: 
+#  support_email: 
+#  description: no information available
+
+##  FederationSIR
+#  name: Servidor de Identidad de RedIRIS
+#  display_name: SIR
+#  type: federation
+#  countries: ['es']
+#  metadata: "http://www.rediris.es/sir/shib1metadata.xml"
+#  certificate: ~
+#  fingerprint: ~
+#  refeds_info: ~
+#  homepage: http://www.rediris.es/sir/
+#  support_email: sir@rediris.es
+#  description: Identity data service managed by RedIRIS affiliated institutions
+
+##  FederationHAKA
+#  name: 
+#  display_name:
+#  type: federation
+#  countries: ['fi','en']
+#  metadata: https://haka.funet.fi/metadata/haka-metadata.xml
+#  certificate: ~
+#  fingerprint: ~
+#  refeds_info: ~
+#  homepage: http://www.csc.fi/english/institutions/haka
+#  support_email: haka@csc.fi
+#  description: >
+   Haka is the identity federation of the Finnish universities, polytechnics and research institutions.
+
 
 
 ## Want more?  
